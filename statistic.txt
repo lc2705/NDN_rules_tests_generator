@@ -1,0 +1,93 @@
+test/test_unmatch_2.txt
+max_blocks_num:12  avg_blocks_num:7  sum_blocks_num:36127
+max_block_len:20  avg_block_len:10  sum_block_len:364009
+test/test_unmatch_3.txt
+max_blocks_num:13  avg_blocks_num:7  sum_blocks_num:40674
+max_block_len:20  avg_block_len:9  sum_block_len:396764
+test/test_unmatch_4.txt
+max_blocks_num:14  avg_blocks_num:8  sum_blocks_num:45728
+max_block_len:20  avg_block_len:9  sum_block_len:435477
+test/test_unmatch_5.txt
+max_blocks_num:15  avg_blocks_num:10  sum_blocks_num:51292
+max_block_len:20  avg_block_len:9  sum_block_len:480395
+test/test_unmatch_6.txt
+max_blocks_num:16  avg_blocks_num:11  sum_blocks_num:56558
+max_block_len:20  avg_block_len:9  sum_block_len:520438
+test/test_unmatch_7.txt
+max_blocks_num:17  avg_blocks_num:12  sum_blocks_num:61570
+max_block_len:20  avg_block_len:9  sum_block_len:559699
+test/test_unmatch_8.txt
+max_blocks_num:18  avg_blocks_num:13  sum_blocks_num:66678
+max_block_len:20  avg_block_len:9  sum_block_len:600408
+test/test_unmatch_9.txt
+max_blocks_num:19  avg_blocks_num:14  sum_blocks_num:71699
+max_block_len:20  avg_block_len:8  sum_block_len:638119
+test/test_unmatch_10.txt
+max_blocks_num:20  avg_blocks_num:15  sum_blocks_num:77211
+max_block_len:20  avg_block_len:8  sum_block_len:683117
+test/test_unmatch_11.txt
+max_blocks_num:21  avg_blocks_num:16  sum_blocks_num:82187
+max_block_len:20  avg_block_len:8  sum_block_len:719057
+test/test_unmatch_12.txt
+max_blocks_num:22  avg_blocks_num:17  sum_blocks_num:87255
+max_block_len:20  avg_block_len:8  sum_block_len:760161
+test/test_unmatch_13.txt
+max_blocks_num:23  avg_blocks_num:18  sum_blocks_num:92306
+max_block_len:20  avg_block_len:8  sum_block_len:799069
+test/test_unmatch_14.txt
+max_blocks_num:24  avg_blocks_num:18  sum_blocks_num:97271
+max_block_len:20  avg_block_len:8  sum_block_len:838511
+test/test_unmatch_15.txt
+max_blocks_num:25  avg_blocks_num:19  sum_blocks_num:102393
+max_block_len:20  avg_block_len:8  sum_block_len:876083
+test/test_unmatch_16.txt
+max_blocks_num:26  avg_blocks_num:21  sum_blocks_num:107625
+max_block_len:20  avg_block_len:8  sum_block_len:916216
+test/test_unmatch_17.txt
+max_blocks_num:27  avg_blocks_num:22  sum_blocks_num:112845
+max_block_len:20  avg_block_len:8  sum_block_len:959761
+test/test_unmatch_18.txt
+max_blocks_num:28  avg_blocks_num:22  sum_blocks_num:117428
+max_block_len:20  avg_block_len:8  sum_block_len:990494
+test/test_unmatch_19.txt
+max_blocks_num:29  avg_blocks_num:24  sum_blocks_num:123000
+max_block_len:20  avg_block_len:8  sum_block_len:1036387
+test/test_unmatch_20.txt
+max_blocks_num:30  avg_blocks_num:25  sum_blocks_num:128211
+max_block_len:20  avg_block_len:8  sum_block_len:1075264
+test/test_unmatch_21.txt
+max_blocks_num:31  avg_blocks_num:25  sum_blocks_num:133114
+max_block_len:20  avg_block_len:8  sum_block_len:1114067
+test/test_unmatch_22.txt
+max_blocks_num:32  avg_blocks_num:26  sum_blocks_num:137611
+max_block_len:20  avg_block_len:8  sum_block_len:1147738
+test/test_unmatch_23.txt
+max_blocks_num:33  avg_blocks_num:28  sum_blocks_num:143427
+max_block_len:20  avg_block_len:8  sum_block_len:1192655
+test/test_unmatch_24.txt
+max_blocks_num:34  avg_blocks_num:29  sum_blocks_num:148523
+max_block_len:20  avg_block_len:8  sum_block_len:1230372
+test/test_unmatch_25.txt
+max_blocks_num:35  avg_blocks_num:29  sum_blocks_num:153362
+max_block_len:20  avg_block_len:8  sum_block_len:1272878
+test/test_unmatch_26.txt
+max_blocks_num:36  avg_blocks_num:31  sum_blocks_num:158936
+max_block_len:20  avg_block_len:8  sum_block_len:1315534
+test/test_unmatch_27.txt
+max_blocks_num:37  avg_blocks_num:31  sum_blocks_num:163653
+max_block_len:20  avg_block_len:8  sum_block_len:1351408
+test/test_unmatch_28.txt
+max_blocks_num:38  avg_blocks_num:32  sum_blocks_num:168326
+max_block_len:20  avg_block_len:8  sum_block_len:1384905
+test/test_unmatch_29.txt
+max_blocks_num:39  avg_blocks_num:34  sum_blocks_num:174450
+max_block_len:20  avg_block_len:8  sum_block_len:1432392
+test/test_unmatch_30.txt
+max_blocks_num:40  avg_blocks_num:35  sum_blocks_num:179257
+max_block_len:20  avg_block_len:8  sum_block_len:1469371
+test/test_unmatch_31.txt
+max_blocks_num:41  avg_blocks_num:35  sum_blocks_num:184005
+max_block_len:20  avg_block_len:8  sum_block_len:1507412
+test/test_unmatch_32.txt
+max_blocks_num:42  avg_blocks_num:37  sum_blocks_num:189560
+max_block_len:20  avg_block_len:8  sum_block_len:1549550

@@ -1,0 +1,150 @@
+rules/rules_random_0.txt
+prefix_num:1744
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:29904
+max_block_len:16  avg_block_len:7  sum_block_len:231272
+
+test/test_match_random_0.txt
+prefix_num:8720
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:193298
+max_block_len:20  avg_block_len:8  sum_block_len:1637904
+
+test/test_unmatch_random_0.txt
+prefix_num:8720
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:192996
+max_block_len:20  avg_block_len:8  sum_block_len:1634000
+
+rules/rules_random_1.txt
+prefix_num:1154
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:20123
+max_block_len:16  avg_block_len:7  sum_block_len:155941
+
+test/test_match_random_1.txt
+prefix_num:5770
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:129857
+max_block_len:20  avg_block_len:8  sum_block_len:1101766
+
+test/test_unmatch_random_1.txt
+prefix_num:5770
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:129760
+max_block_len:20  avg_block_len:8  sum_block_len:1101572
+
+rules/rules_random_2.txt
+prefix_num:1703
+max_blocks_num:32  avg_blocks_num:16  sum_blocks_num:28585
+max_block_len:16  avg_block_len:7  sum_block_len:221948
+
+test/test_match_random_2.txt
+prefix_num:8515
+max_blocks_num:42  avg_blocks_num:21  sum_blocks_num:185098
+max_block_len:20  avg_block_len:8  sum_block_len:1572594
+
+test/test_unmatch_random_2.txt
+prefix_num:8515
+max_blocks_num:42  avg_blocks_num:21  sum_blocks_num:185588
+max_block_len:20  avg_block_len:8  sum_block_len:1578954
+
+rules/rules_random_3.txt
+prefix_num:266
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:4701
+max_block_len:16  avg_block_len:7  sum_block_len:36462
+
+test/test_match_random_3.txt
+prefix_num:1330
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:30254
+max_block_len:20  avg_block_len:8  sum_block_len:256715
+
+test/test_unmatch_random_3.txt
+prefix_num:1330
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:30104
+max_block_len:20  avg_block_len:8  sum_block_len:255044
+
+rules/rules_random_4.txt
+prefix_num:143
+max_blocks_num:32  avg_blocks_num:16  sum_blocks_num:2423
+max_block_len:16  avg_block_len:7  sum_block_len:18697
+
+test/test_match_random_4.txt
+prefix_num:715
+max_blocks_num:42  avg_blocks_num:21  sum_blocks_num:15695
+max_block_len:20  avg_block_len:8  sum_block_len:132957
+
+test/test_unmatch_random_4.txt
+prefix_num:715
+max_blocks_num:41  avg_blocks_num:22  sum_blocks_num:15876
+max_block_len:20  avg_block_len:8  sum_block_len:134338
+
+rules/rules_random_5.txt
+prefix_num:1352
+max_blocks_num:32  avg_blocks_num:16  sum_blocks_num:22107
+max_block_len:16  avg_block_len:7  sum_block_len:170812
+
+test/test_match_random_5.txt
+prefix_num:6760
+max_blocks_num:42  avg_blocks_num:21  sum_blocks_num:144249
+max_block_len:20  avg_block_len:8  sum_block_len:1225238
+
+test/test_unmatch_random_5.txt
+prefix_num:6760
+max_blocks_num:42  avg_blocks_num:21  sum_blocks_num:144377
+max_block_len:20  avg_block_len:8  sum_block_len:1228134
+
+rules/rules_random_6.txt
+prefix_num:752
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:12802
+max_block_len:16  avg_block_len:7  sum_block_len:99299
+
+test/test_match_random_6.txt
+prefix_num:3760
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:82735
+max_block_len:20  avg_block_len:8  sum_block_len:703256
+
+test/test_unmatch_random_6.txt
+prefix_num:3760
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:82779
+max_block_len:20  avg_block_len:8  sum_block_len:703039
+
+rules/rules_random_7.txt
+prefix_num:1593
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:27426
+max_block_len:16  avg_block_len:7  sum_block_len:212117
+
+test/test_match_random_7.txt
+prefix_num:7965
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:177065
+max_block_len:20  avg_block_len:8  sum_block_len:1501460
+
+test/test_unmatch_random_7.txt
+prefix_num:7965
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:177340
+max_block_len:20  avg_block_len:8  sum_block_len:1500843
+
+rules/rules_random_8.txt
+prefix_num:1551
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:26554
+max_block_len:16  avg_block_len:7  sum_block_len:204777
+
+test/test_match_random_8.txt
+prefix_num:7755
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:171954
+max_block_len:20  avg_block_len:8  sum_block_len:1454147
+
+test/test_unmatch_random_8.txt
+prefix_num:7755
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:171015
+max_block_len:20  avg_block_len:8  sum_block_len:1444264
+
+rules/rules_random_9.txt
+prefix_num:1996
+max_blocks_num:32  avg_blocks_num:17  sum_blocks_num:34647
+max_block_len:16  avg_block_len:7  sum_block_len:268206
+
+test/test_match_random_9.txt
+prefix_num:9980
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:222960
+max_block_len:20  avg_block_len:8  sum_block_len:1886208
+
+test/test_unmatch_random_9.txt
+prefix_num:9980
+max_blocks_num:42  avg_blocks_num:22  sum_blocks_num:223419
+max_block_len:20  avg_block_len:8  sum_block_len:1893345
+
